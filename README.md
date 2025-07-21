@@ -22,3 +22,6 @@ Start11
 
 (new!)
 Cairo Desktop Environment Shell [https://cairoshell.com/](https://cairoshell.com/)
+
+(new!)
+"Everything" (by VoidTools)
