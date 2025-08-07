@@ -25,3 +25,14 @@ Cairo Desktop Environment Shell [https://cairoshell.com/](https://cairoshell.com
 
 (new!)
 "Everything" (by VoidTools)
+
+ִ
+
+### ***Alternatively***
+
+VirtualBox
+```
+$ winget install virtualbox
+```
+
+but that's kinda cheating.
