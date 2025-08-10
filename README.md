@@ -26,6 +26,8 @@ Cairo Desktop Environment Shell [https://cairoshell.com/](https://cairoshell.com
 (new!)
 "Everything" (by VoidTools)
 
+See also: WinZoeyTerminalHotkeys, by me: [https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys](https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys)
+
 ִ
 
 ### ***Alternatively***
