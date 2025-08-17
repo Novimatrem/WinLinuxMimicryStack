@@ -38,3 +38,11 @@ $ winget install virtualbox
 ```
 
 but that's kinda cheating.
+
+# Discontinuation
+
+35 days. that's 1 month and 4 days. that's how long I could stand trying to use Windows before I couldn't bare it any longer and had to move back to linux, whatever the cost. this repo is therefore archived, development will not continue.
+
+be back soon, to either Trisquel, Ubuntu MATE, or Xubuntu's newest releases.
+
+and a big ol' fuck you to vibe coding.
