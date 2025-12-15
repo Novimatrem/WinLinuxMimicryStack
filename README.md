@@ -29,6 +29,9 @@ Cairo Desktop Environment Shell [https://cairoshell.com/](https://cairoshell.com
 (new!)
 AltSnap
 
+(new!)
+DiskInternals Linux Reader
+
 See also: WinZoeyTerminalHotkeys, by me: [https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys](https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys)
 
 ִ
