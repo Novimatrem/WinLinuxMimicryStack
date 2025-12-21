@@ -32,6 +32,9 @@ AltSnap
 (new!)
 DiskInternals Linux Reader
 
+(new!)
+WiXkill [https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html](https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html)
+
 See also: WinZoeyTerminalHotkeys, by me: [https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys](https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys)
 
 ִ
