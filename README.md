@@ -35,6 +35,9 @@ DiskInternals Linux Reader
 (new!)
 WiXkill [https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html](https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html)
 
+(new!)
+Winaero Tweaker [https://winaerotweaker.com/](https://winaerotweaker.com/)
+
 See also: WinZoeyTerminalHotkeys, by me: [https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys](https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys)
 
 ִ
