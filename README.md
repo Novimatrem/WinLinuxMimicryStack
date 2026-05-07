@@ -11,9 +11,9 @@ I now have a Windows system, unfortunately. Here are some things to install to m
 
 WSL (Windows Subsystem for Linux) [https://www.itprotoday.com/linux-os/how-to-use-windows-subsystem-for-linux](https://www.itprotoday.com/linux-os/how-to-use-windows-subsystem-for-linux)
 
-winget
+🛍️ winget
 
-Microsoft Store (Windows' GNOME Software / KDE Discover)
+🛍️ Microsoft Store (Windows' GNOME Software / KDE Discover)
 
 Double Commander
 
