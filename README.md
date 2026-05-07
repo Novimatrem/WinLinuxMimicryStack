@@ -13,8 +13,6 @@ WSL (Windows Subsystem for Linux) [https://www.itprotoday.com/linux-os/how-to-us
 
 🛍️ winget
 
-🛍️ Microsoft Store (Windows' GNOME Software / KDE Discover)
-
 Double Commander
 
 Cygwin
