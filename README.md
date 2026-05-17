@@ -9,11 +9,7 @@ I now have a Windows system, unfortunately. Here are some things to install to m
 
 # 
 
-WSL (Windows Subsystem for Linux) [https://www.itprotoday.com/linux-os/how-to-use-windows-subsystem-for-linux](https://www.itprotoday.com/linux-os/how-to-use-windows-subsystem-for-linux)
-
 🛍️ winget
-
-Double Commander
 
 Bing Wallpaper
 
@@ -29,20 +25,13 @@ Start Menu X Pro
 
 Cairo Desktop Environment Shell [https://cairoshell.com/](https://cairoshell.com/)
 
-
 "Everything" (by VoidTools)
-
 
 AltSnap
 
-
 DiskInternals Linux Reader
 
-
 WiXkill [https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html](https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html)
-
-
-Winaero Tweaker [https://winaerotweaker.com/](https://winaerotweaker.com/)
 
 See also: WinZoeyTerminalHotkeys, by me: [https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys](https://gitlab.com/Novimatrem/WinZoeyTerminalHotkeys)
 
