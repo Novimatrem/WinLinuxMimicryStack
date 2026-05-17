@@ -15,6 +15,8 @@ WSL (Windows Subsystem for Linux) [https://www.itprotoday.com/linux-os/how-to-us
 
 Double Commander
 
+Bing Wallpaper
+
 Cygwin
 
 Git for Windows
