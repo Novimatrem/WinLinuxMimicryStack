@@ -25,7 +25,7 @@ Git Bash
 
 Windows Terminal
 
-Start11
+Start11 / StartAllBack / StartIsBack
 
 
 Cairo Desktop Environment Shell [https://cairoshell.com/](https://cairoshell.com/)
