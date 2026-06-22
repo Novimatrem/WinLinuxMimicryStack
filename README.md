@@ -35,6 +35,8 @@ Sticky Notes [https://win7games.com/#sticky](https://win7games.com/#sticky)
 
 GRC InControl
 
+dnGrep
+
 DiskInternals Linux Reader
 
 WiXkill [https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html](https://web.archive.org/web/20250629162133/http://windows.xkill.free.fr/download.html)
