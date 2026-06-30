@@ -25,8 +25,6 @@ vim
 
 nano
 
-emacs
-
 Start Menu X Pro
 
 Cairo Desktop Environment Shell [https://cairoshell.com/](https://cairoshell.com/)
